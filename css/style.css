@@ -1,0 +1,13 @@
+.wrapper {
+	width: 600px;
+	margin: 0 auto;
+
+}
+.setka {
+	background-color: #4E4E4E;
+	float: left;
+	margin: 0px 0px auto;
+}
+.selected {
+	background-color: #ffaaff;
+}
